@@ -20,6 +20,7 @@
 6. [Entregáveis](#6-entregáveis)
 7. [Critérios de Avaliação](#7-critérios-de-avaliação)
 8. [Perguntas Frequentes (FAQ)](#8-perguntas-frequentes-faq)
+9. [Wiki Pra Mais Informações](https://github.com/NirtonAfonso/Trabalho-Final-Testes-de-Sistemas/wiki)
 
 ---
 
